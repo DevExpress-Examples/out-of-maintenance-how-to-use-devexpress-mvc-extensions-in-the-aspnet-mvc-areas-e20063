@@ -1,0 +1,11 @@
+@Html.DevExpress().Button(b => {
+    b.Name = "btnGoToAdminArea";
+    b.Text = "Go To Admin Area";
+    b.RouteValues = new { Area = "Admin", Controller = "Home", Action = "Index" };
+}).GetHtml()
+<br />
+@Html.DevExpress().Button(b => {
+    b.Name = "btnGoToUserArea";
+    b.Text = "Go To User Area";
+    b.RouteValues = new { Area = "User", Controller = "Home", Action = "Index" };
+}).GetHtml()
