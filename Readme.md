@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Index.cshtml](./CS/Areas/Admin/Views/Home/Index.cshtml)
+* [Web.config](./CS/Areas/Admin/Views/Web.config) (VB: [Web.config](./VB/Areas/Admin/Views/Web.config))
+* [Index.cshtml](./CS/Areas/User/Views/Home/Index.cshtml)
+* [Web.config](./CS/Areas/User/Views/Web.config) (VB: [Web.config](./VB/Areas/User/Views/Web.config))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to use DevExpress MVC Extensions in the ASP.NET MVC Areas
 
 
