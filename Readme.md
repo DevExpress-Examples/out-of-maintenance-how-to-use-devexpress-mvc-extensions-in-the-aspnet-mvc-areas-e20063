@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to use DevExpress MVC Extensions in the ASP.NET MVC Areas
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e20063)**
+**[[Run Online]](https://codecentral.devexpress.com/e20063/)**
 <!-- run online end -->
 
 
